@@ -1,3 +1,6 @@
 Proyecto2.
 
 Proyecto 2 modif
+
+
+modificando un par de lineas y registrando un commit
